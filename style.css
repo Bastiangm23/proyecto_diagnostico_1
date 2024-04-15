@@ -1,0 +1,9 @@
+.campo{
+    width: 360px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.campo > select{
+    width: 177px;
+}
